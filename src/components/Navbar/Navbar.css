@@ -32,12 +32,13 @@
   display: flex;
   gap: 2rem;
   margin-right: 4rem;
-}
-
-.n-list > ul :hover {
-  color: var(--orange);
   cursor: pointer;
 }
+.n-list >ul :hover{
+  cursor: pointer;
+}
+
+
 
 .n-button {
   flex: 2;

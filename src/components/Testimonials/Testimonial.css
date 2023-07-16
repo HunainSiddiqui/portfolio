@@ -47,6 +47,11 @@
     height: 6rem;
     border-radius: 100%;
 }
+.testimonial>h2{
+    font-size: 1.5rem;
+    color: var(--orange);
+    font-weight: bold;
+}
 .testimonial>span{
     color: var(--gray);
 }

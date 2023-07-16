@@ -58,18 +58,20 @@
   z-index: 1;
 }
 .i-right > :nth-child(1) {
-  transform: scale(0.69);
+  transform: scale(0.76);
   left: -15%;
   top: -9%;
 }
 .i-right > :nth-child(2) {
   top: -4.6rem;
-  transform: scale(0.67);
-  left: -3rem;
+  transform: scale(0.77);
+  left: -2rem;
 }
 .i-right > :nth-child(3) {
-  transform: scale(1.4);
-  left: 28%;
+  transform: scale(2.4);
+  left: 5%;
+  right: 30%;
+  bottom: 49%;
 }
 .i-right > :nth-child(4) {
   transform: scale(0.62);

@@ -56,16 +56,16 @@
   position: absolute;
 }
 .w-mainCircle > :nth-child(1) {
-  top: -3rem;
-  left: 6rem;
+  left: 5.7rem;
+  top: 5.7rem;
 }
 .w-mainCircle > :nth-child(2) {
   left: -3rem;
-  top: 5rem;
+  top: 6rem;
 }
 .w-mainCircle > :nth-child(3) {
   left: 6rem;
-  top: 5rem;
+  top: 6rem;
 }
 .w-mainCircle > :nth-child(4) {
   left: 15rem;
@@ -80,17 +80,20 @@
   height: 6rem;
   position: absolute;
   border-radius: 100%;
-  border: 5px solid #ebebeb;
+  border: 5px solid white;
   display: flex;
   align-items: center;
   justify-content: center;
   background: "none";
-  box-shadow: var(--smboxShadow);
+  
   background: white;
 }
 
 .w-secCircle > img {
-  transform: scale(0.6);
+  transform: scale(0.2);
+}
+.aa {
+  transform: scale(0.1);
 }
 
 .w-backCircle {
